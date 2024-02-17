@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+}
+td{
+	text-align: right;
+}
+#eg1{
+	text-align: left;
+}
